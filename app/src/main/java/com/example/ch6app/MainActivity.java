@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
 
         mp1 = new MediaPlayer();
         mp2 = new MediaPlayer();
+//
+//
 
         mp1 = MediaPlayer.create(this,R.raw.track1);
         mp2 = MediaPlayer.create(this,R.raw.track2);
